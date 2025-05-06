@@ -34,7 +34,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 
@@ -56,14 +55,14 @@
 
 ### 🔭 Current Projects
 - 🚍 Smart Bus Monitoring System using GIS, GPS, and AI
-- 🔐 Crew Reassignment & Fatigue Prediction Model for public transport optimization
+- 🔐 FusionMind: A Multimodal AI Framework
 - ⚙️ MLOps pipeline setup with containerization and monitoring
 
 ---
 
 ### 💼 Open to:
 - Research Internships in AI/ML/Computer Vision
-- MLOps/DevOps roles with AI integration
+- Machine Learning,MLOps roles with AI integration
 - Real-world AI challenges in Transportation, Healthcare, or Education
 
 ---
