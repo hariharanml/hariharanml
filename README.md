@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hariharan.C</h1>
+<h3 align="center">AI/ML Enthusiast | Problem Solver | Innovator</h3>
 
-<!--
-**hariharanml/hariharanml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 I'm passionate about building AI-driven solutions that solve real-world problems. My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Artificial Intelligence & Machine Learning  
+- 🤖 Deep Learning, Generative AI & Computer Vision  
+- 🧠 NLP and Large Language Models  
+- 🛠️ MLOps & Scalable AI System Design  
+- 📊 Data Analytics & Automation with Python  
+
+---
+
+### 🧩 Skills & Tools
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn)
+![Seaborn](https://img.shields.io/badge/-Seaborn-546E7A?style=flat&logo=python)
+
+**Tools & Platforms:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hari-haran-c-33ab462b0/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/c_hari_haran_)
+
+---
+
+### 🔭 Current Projects
+- 🚍 Smart Bus Monitoring System using GIS, GPS, and AI
+- 🔐 Crew Reassignment & Fatigue Prediction Model for public transport optimization
+- ⚙️ MLOps pipeline setup with containerization and monitoring
+
+---
+
+### 💼 Open to:
+- Research Internships in AI/ML/Computer Vision
+- MLOps/DevOps roles with AI integration
+- Real-world AI challenges in Transportation, Healthcare, or Education
+
+---
+
