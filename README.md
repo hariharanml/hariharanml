@@ -26,17 +26,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 🧰 Tools & Platforms
+## 🛠️ Tools & Platforms
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="120"/>
 
 
 ### 📊 GitHub Stats
