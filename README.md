@@ -41,9 +41,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariharanml&show_icons=true&theme=dark)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hariharanml&theme=dark)
 
 
 ### 📫 Connect with me
